@@ -1,0 +1,22 @@
+ICD_10,Description
+I70.0,Atherosclerosis of aorta
+I70.1,Atherosclerosis of renal artery
+I70.2,Atherosclerosis of native arteries of the extremities
+I70.8,Atherosclerosis of other arteries
+I70.9,Other and unspecified atherosclerosis
+I72.0,Aneurysm of carotid artery
+I72.1,Aneurysm of artery of upper extremity
+I72.2,Aneurysm of renal artery
+I72.3,Aneurysm of iliac artery
+I72.4,Aneurysm of artery of lower extremity
+I73.0,Raynaud syndrome
+I73.1,Buerger disease
+I73.9,Peripheral vascular disease unspecified
+I74.0,Embolism and thrombosis of abdominal aorta
+I74.1,Embolism and thrombosis of other and unspecified parts of aorta
+I74.2,Embolism and thrombosis of arteries of the upper extremities
+I74.3,Embolism and thrombosis of arteries of the lower extremities
+I74.4,Embolism and thrombosis of arteries of extremities unspecified
+I74.5,Embolism and thrombosis of iliac artery
+I74.8,Embolism and thrombosis of other arteries
+I74.9,Embolism and thrombosis of unspecified artery

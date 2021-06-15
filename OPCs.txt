@@ -1,0 +1,219 @@
+Code	Description	Procedure 
+L161	Emergency bypass of aorta by anastomosis of axillary artery to femoral artery	Open surgery
+L162	Bypass of aorta by anastomosis of axillary artery to femoral artery NEC	Open surgery
+L163	Bypass of aorta by anastomosis of axillary artery to bilateral femoral arteries	Open surgery
+L168	Other specified extra-anatomic bypass of aorta	Open surgery
+L169	Unspecified extra-anatomic bypass of aorta	Open surgery
+L181	Emergency replacement of aneurysmal segment of ascending aorta by anastomosis of aorta to aorta	Open surgery
+L182	Emergency replacement of aneurysmal segment of thoracic aorta by anastomosis of aorta to aorta NEC	Open surgery
+L183	Emergency replacement of aneurysmal segment of suprarenal abdominal aorta by anastomosis of aorta to aorta	Open surgery
+L184	Emergency replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta	Open surgery
+L185	Emergency replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L186	Emergency replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery	Open surgery
+L188	Other specified emergency replacement of aneurysmal segment of aorta	Open surgery
+L189	Unspecified emergency replacement of aneurysmal segment of aorta	Open surgery
+L191	Replacement of aneurysmal segment of ascending aorta by anastomosis of aorta to aorta NEC	Open surgery
+L192	Replacement of aneurysmal segment of thoracic aorta by anastomosis of aorta to aorta NEC	Open surgery
+L193	Replacement of aneurysmal segment of suprarenal abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L194	Replacement of aneurysmal segment of infrarenal abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L195	Replacement of aneurysmal segment of abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L196	Replacement of aneurysmal bifurcation of aorta by anastomosis of aorta to iliac artery NEC	Open surgery
+L198	Other specified other replacement of aneurysmal segment of aorta	Open surgery
+L199	Unspecified other replacement of aneurysmal segment of aorta	Open surgery
+L201	Emergency bypass of segment of ascending aorta by anastomosis of aorta to aorta NEC	Open surgery
+L202	Emergency bypass of segment of thoracic aorta by anastomosis of aorta to aorta NEC	Open surgery
+L203	Emergency bypass of segment of suprarenal abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L204	Emergency bypass of segment of infrarenal abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L205	Emergency bypass of segment of abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L206	Emergency bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC	Open surgery
+L208	Other specified other emergency bypass of segment of aorta	Open surgery
+L209	Unspecified other emergency bypass of segment of aorta	Open surgery
+L211	Bypass of segment of ascending aorta by anastomosis of aorta to aorta NEC	Open surgery
+L212	Bypass of segment of thoracic aorta by anastomosis of aorta to aorta NEC	Open surgery
+L213	Bypass of segment of suprarenal abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L214	Bypass of segment of infrarenal abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L215	Bypass of segment of abdominal aorta by anastomosis of aorta to aorta NEC	Open surgery
+L216	Bypass of bifurcation of aorta by anastomosis of aorta to iliac artery NEC	Open surgery
+L218	Other specified other bypass of segment of aorta	Open surgery
+L219	Unspecified other bypass of segment of aorta	Open surgery
+L222	Revision of prosthesis of bifurcation of aorta	Open surgery
+L223	Revision of prosthesis of abdominal aorta NEC	Open surgery
+L224	Removal of prosthesis from aorta	Open surgery
+L228	Other specified attention to prosthesis of aorta	Open surgery
+L229	Unspecified attention to prosthesis of aorta	Open surgery
+L231	Plastic repair of aorta and end to end anastomosis of aorta	Open surgery
+L232	Plastic repair of aorta using subclavian flap	Open surgery
+L233	Plastic repair of aorta using patch graft	Open surgery
+L234	Release of vascular ring of aorta	Open surgery
+L235	Revision of plastic repair of aorta	Open surgery
+L236	Plastic repair of aorta and insertion of tube graft	Open surgery
+L238	Other specified plastic repair of aorta	Open surgery
+L239	Unspecified plastic repair of aorta	Open surgery
+L251	Endarterectomy of aorta and patch repair of aorta	Open surgery
+L252	Endarterectomy of aorta NEC	Open surgery
+L253	Open embolectomy of bifurcation of aorta	Open surgery
+L254	Operations on aneurysm of aorta NEC	Open surgery
+L261	Percutaneous transluminal balloon angioplasty of aorta	Endovascular
+L262	Percutaneous transluminal angioplasty of aorta NEC	Endovascular
+L263	Percutaneous transluminal embolectomy of bifurcation of aorta	Endovascular
+L265	Percutaneous transluminal insertion of stent into aorta	Endovascular
+L266	Transluminal aortic stent graft with fenestration NEC	Endovascular
+L267	Transluminal aortic branched stent graft NEC	Endovascular
+L268	Other specified transluminal operations on aorta	Endovascular
+L269	Unspecified transluminal operations on aorta	Endovascular
+L271	Endovascular insertion of stent graft for infrarenal abdominal aortic aneurysm	Endovascular
+L272	Endovascular insertion of stent graft for suprarenal aortic aneurysm	Endovascular
+L273	Endovascular insertion of stent graft for thoracic aortic aneurysm	Endovascular
+L274	Endovascular insertion of stent graft for aortic dissection in any position	Endovascular
+L275	Endovascular insertion of stent graft for aortic aneurysm of bifurcation NEC	Endovascular
+L276	Endovascular insertion of stent graft for aorto-uniiliac aneurysm	Endovascular
+L278	Other specified transluminal insertion of stent graft for aneurysmal segment of aorta	Endovascular
+L279	Unspecified transluminal insertion of stent graft for aneurysmal segment of aorta	Endovascular
+L281	Endovascular insertion of stent for infrarenal abdominal aortic aneurysm	Endovascular
+L282	Endovascular insertion of stent for suprarenal aortic aneurysm	Endovascular
+L283	Endovascular insertion of stent for thoracic aortic aneurysm	Endovascular
+L284	Endovascular insertion of stent for aortic dissection in any position	Endovascular
+L285	Endovascular insertion of stent for aortic aneurysm of bifurcation NEC	Endovascular
+L286	Endovascular insertion of stent for aorto-uniiliac aneurysm	Endovascular
+L288	Other specified transluminal operations on aneurysmal segment of aorta	Endovascular
+L289	Unspecified transluminal operations on aneurysmal segment of aorta	Endovascular
+L291	Replacement of carotid artery using graft	Open surgery
+L292	Intracranial bypass to carotid artery NEC	Open surgery
+L293	Bypass to carotid artery NEC	Open surgery
+L294	Endarterectomy of carotid artery and patch repair of carotid artery	Open surgery
+L295	Endarterectomy of carotid artery NEC	Open surgery
+L297	Bypass of carotid artery by anastomosis of superficial temporal artery to middle cerebral artery	Open surgery
+L298	Other specified reconstruction of carotid artery	Open surgery
+L299	Unspecified reconstruction of carotid artery	Open surgery
+L304	Operations on aneurysm of carotid artery	Open surgery
+L311	Percutaneous transluminal angioplasty of carotid artery	Endovascular
+L314	Percutaneous transluminal insertion of stent into carotid artery	Endovascular
+L318	Other specified transluminal operations on carotid artery	Endovascular
+L353	Percutaneous transluminal insertion of stent into cerebral artery	Endovascular
+L358	Other specified transluminal operations on cerebral artery	Endovascular
+L359	Unspecified transluminal operations on cerebral artery	Endovascular
+L371	Bypass of subclavian artery NEC	Open surgery
+L373	Endarterectomy of subclavian artery and patch repair of subclavian artery	Open surgery
+L374	Endarterectomy of subclavian artery NEC	Open surgery
+L378	Other specified reconstruction of subclavian artery	Open surgery
+L388	Other specified other open operations on subclavian artery	Open surgery
+L389	Unspecified other open operations on subclavian artery	Open surgery
+L391	Percutaneous transluminal angioplasty of subclavian artery	Endovascular
+L395	Percutaneous transluminal insertion of stent into subclavian artery	Endovascular
+L398	Other specified transluminal operations on subclavian artery	Endovascular
+L399	Unspecified transluminal operations on subclavian artery	Endovascular
+L411	Plastic repair of renal artery and end to end anastomosis of renal artery	Open surgery
+L412	Bypass of renal artery	Open surgery
+L414	Endarterectomy of renal artery	Open surgery
+L431	Percutaneous transluminal angioplasty of renal artery	Endovascular
+L435	Percutaneous transluminal insertion of stent into renal artery	Endovascular
+L438	Other specified transluminal operations on renal artery	Endovascular
+L439	Unspecified transluminal operations on renal artery	Endovascular
+L451	Bypass of visceral branch of abdominal aorta NEC	Open surgery
+L453	Endarterectomy of visceral branch of abdominal aorta and patch repair of visceral branch of abdominal aorta NEC	Open surgery
+L454	Endarterectomy of visceral branch of abdominal aorta NEC	Open surgery
+L458	Other specified reconstruction of other visceral branch of abdominal aorta	Open surgery
+L459	Unspecified reconstruction of other visceral branch of abdominal aorta	Open surgery
+L461	Open embolectomy of visceral branch of abdominal aorta NEC	Open surgery
+L462	Open embolisation of visceral branch of abdominal aorta NEC	Open surgery
+L471	Percutaneous transluminal angioplasty of visceral branch of abdominal aorta NEC	Endovascular
+L474	Percutaneous transluminal insertion of stent into visceral branch of abdominal aorta NEC	Endovascular
+L478	Other specified transluminal operations on other visceral branch of abdominal aorta	Endovascular
+L479	Unspecified transluminal operations on other visceral branch of abdominal aorta	Endovascular
+L481	Emergency replacement of aneurysmal common iliac artery by anastomosis of aorta to common iliac artery	Open surgery
+L482	Emergency replacement of aneurysmal iliac artery by anastomosis of aorta to external iliac artery	Open surgery
+L483	Emergency replacement of aneurysmal artery of leg by anastomosis of aorta to common femoral artery	Open surgery
+L484	Emergency replacement of aneurysmal artery of leg by anastomosis of aorta to superficial femoral artery	Open surgery
+L485	Emergency replacement of aneurysmal iliac artery by anastomosis of iliac artery to iliac artery	Open surgery
+L486	Emergency replacement of aneurysmal artery of leg by anastomosis of iliac artery to femoral artery	Open surgery
+L488	Other specified emergency replacement of aneurysmal iliac artery	Open surgery
+L489	Unspecified emergency replacement of aneurysmal iliac artery	Open surgery
+L491	Replacement of aneurysmal common iliac artery by anastomosis of aorta to common iliac artery NEC	Open surgery
+L492	Replacement of aneurysmal iliac artery by anastomosis of aorta to external iliac artery NEC	Open surgery
+L493	Replacement of aneurysmal artery of leg by anastomosis of aorta to common femoral artery NEC	Open surgery
+L494	Replacement of aneurysmal artery of leg by anastomosis of aorta to superficial femoral artery NEC	Open surgery
+L495	Replacement of aneurysmal iliac artery by anastomosis of iliac artery to iliac artery NEC	Open surgery
+L496	Replacement of aneurysmal artery of leg by anastomosis of iliac artery to femoral artery NEC	Open surgery
+L498	Other specified other replacement of aneurysmal iliac artery	Open surgery
+L499	Unspecified other replacement of aneurysmal iliac artery	Open surgery
+L501	Emergency bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC	Open surgery
+L502	Emergency bypass of iliac artery by anastomosis of aorta to external iliac artery NEC	Open surgery
+L503	Emergency bypass of artery of leg by anastomosis of aorta to common femoral artery NEC	Open surgery
+L504	Emergency bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC	Open surgery
+L505	Emergency bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC	Open surgery
+L506	Emergency bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC	Open surgery
+L508	Other specified other emergency bypass of iliac artery	Open surgery
+L509	Unspecified other emergency bypass of iliac artery	Open surgery
+L511	Bypass of common iliac artery by anastomosis of aorta to common iliac artery NEC	Open surgery
+L512	Bypass of iliac artery by anastomosis of aorta to external iliac artery NEC	Open surgery
+L513	Bypass of artery of leg by anastomosis of aorta to common femoral artery NEC	Open surgery
+L514	Bypass of artery of leg by anastomosis of aorta to deep femoral artery NEC	Open surgery
+L515	Bypass of iliac artery by anastomosis of iliac artery to iliac artery NEC	Open surgery
+L516	Bypass of artery of leg by anastomosis of iliac artery to femoral artery NEC	Open surgery
+L518	Other specified other bypass of iliac artery	Open surgery
+L519	Unspecified other bypass of iliac artery	Open surgery
+L521	Endarterectomy of iliac artery and patch repair of iliac artery	Open surgery
+L522	Endarterectomy of iliac artery NEC	Open surgery
+L528	Other specified reconstruction of iliac artery	Open surgery
+L529	Unspecified reconstruction of iliac artery	Open surgery
+L531	Repair of iliac artery NEC	Open surgery
+L532	Open embolectomy of iliac artery	Open surgery
+L533	Operations on aneurysm of iliac artery NEC	Open surgery
+L538	Other specified other open operations on iliac artery	Open surgery
+L539	Unspecified other open operations on iliac artery	Open surgery
+L541	Percutaneous transluminal angioplasty of iliac artery	Endovascular
+L542	Percutaneous transluminal embolectomy of iliac artery	Endovascular
+L544	Percutaneous transluminal insertion of stent into iliac artery	Endovascular
+L548	Other specified transluminal operations on iliac artery	Endovascular
+L549	Unspecified transluminal operations on iliac artery	Endovascular
+L561	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to femoral artery	Open surgery
+L562	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis	Open surgery
+L563	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to popliteal artery using vein graft	Open surgery
+L564	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to tibial artery using prosthesis	Open surgery
+L565	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to tibial artery using vein graft	Open surgery
+L566	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis	Open surgery
+L567	Emergency replacement of aneurysmal femoral artery by anastomosis of femoral artery to peroneal artery using vein graft	Open surgery
+L568	Other specified emergency replacement of aneurysmal femoral artery	Open surgery
+L569	Unspecified emergency replacement of aneurysmal femoral artery	Open surgery
+L571	Replacement of aneurysmal femoral artery by anastomosis of femoral artery to femoral artery NEC	Open surgery
+L572	Replacement of aneurysmal femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC	Open surgery
+L573	Replacement of aneurysmal femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC	Open surgery
+L574	Replacement of aneurysmal femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC	Open surgery
+L575	Replacement of aneurysmal femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC	Open surgery
+L576	Replacement of aneurysmal femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC	Open surgery
+L577	Replacement of aneurysmal femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC	Open surgery
+L578	Other specified other replacement of aneurysmal femoral artery	Open surgery
+L579	Unspecified other replacement of aneurysmal femoral artery	Open surgery
+L581	Emergency bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC	Open surgery
+L582	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC	Open surgery
+L583	Emergency bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC	Open surgery
+L584	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC	Open surgery
+L585	Emergency bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC	Open surgery
+L586	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC	Open surgery
+L587	Emergency bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC	Open surgery
+L588	Other specified other emergency bypass of femoral artery	Open surgery
+L589	Unspecified other emergency bypass of femoral artery	Open surgery
+L591	Bypass of femoral artery by anastomosis of femoral artery to femoral artery NEC	Open surgery
+L592	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using prosthesis NEC	Open surgery
+L593	Bypass of femoral artery by anastomosis of femoral artery to popliteal artery using vein graft NEC	Open surgery
+L594	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using prosthesis NEC	Open surgery
+L595	Bypass of femoral artery by anastomosis of femoral artery to tibial artery using vein graft NEC	Open surgery
+L596	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using prosthesis NEC	Open surgery
+L597	Bypass of femoral artery by anastomosis of femoral artery to peroneal artery using vein graft NEC	Open surgery
+L598	Other specified other bypass of femoral artery	Open surgery
+L599	Unspecified other bypass of femoral artery	Open surgery
+L601	Endarterectomy of femoral artery and patch repair of femoral artery	Open surgery
+L602	Endarterectomy of femoral artery NEC	Open surgery
+L603	Profundoplasty of femoral artery and patch repair of deep femoral artery	Open surgery
+L604	Profundoplasty of femoral artery NEC	Open surgery
+L608	Other specified reconstruction of femoral artery	Open surgery
+L609	Unspecified reconstruction of femoral artery	Open surgery
+L631	Percutaneous transluminal angioplasty of femoral artery	Endovascular
+L632	Percutaneous transluminal embolectomy of femoral artery	Endovascular
+L633	Percutaneous transluminal embolisation of femoral artery	Endovascular
+L635	Percutaneous transluminal insertion of stent into femoral artery	Endovascular
+L638	Other specified transluminal operations on femoral artery	Endovascular
+L639	Unspecified transluminal operations on femoral artery	Endovascular
+L651	Revision of reconstruction involving aorta	Open surgery
+L652	Revision of reconstruction involving iliac artery	Open surgery
+L653	Revision of reconstruction involving femoral artery	Open surgery

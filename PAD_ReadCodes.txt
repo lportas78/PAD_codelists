@@ -1,0 +1,57 @@
+gold_medcode	aurum_medcode	readcode	readterm
+59534	451376017	14NB.00	H/O: Peripheral vascular disease procedure
+9561	450665015	2G63.00	Ischaemic toe
+11680	256133012	2I16.00	O/E - gangrene
+18499	216185010	662U.00	Peripheral vascular disease monitoring
+23352	530051000006117	7A10100	Bypass aorta by anastomosis axillary to femoral artery NEC
+10827	271900018	7A44000	Percutaneous transluminal angioplasty of iliac artery
+9099	394338018	7A47.00	Other emergency bypass of femoral artery or popliteal artery
+27580	530131000006113	7A48000	Bypass femoral artery by fem/pop art anast c prosthesis NEC
+28030	530141000006115	7A48200	Bypass femoral artery by fem/pop art anast c vein graft NEC
+39877	530151000006118	7A48400	Bypass femoral artery by fem/tib art anast c prosthesis NEC
+41823	530161000006116	7A48600	Bypass femoral artery by fem/tib art anast c vein graft NEC
+67982	530111000006119	7A48800	Bypass femoral artery by fem/peron a anast c prosthesis NEC
+53675	530121000006110	7A48A00	Bypass femoral artery by fem/peron a anast c vein graft NEC
+45428	530171000006111	7A48C00	Bypass femoral artery by femoral/femoral art anastomosis NEC
+42640	36061000006118	7A48y00	Other bypass of femoral artery or popliteal artery OS
+2066	272003016	7A48z00	Other bypass of femoral artery or popliteal artery NOS
+29112	239491000006117	7A4B100	Percutaneous transluminal angioplasty of popliteal artery
+18030	238621000006112	7A4B800	Percut translum thrombolysis femoral graft streptokinase
+14797	300433019	G702.00	Extremity artery atheroma
+5943	395791015	G73..00	Other peripheral vascular disease
+5702	350535018	G73..11	Peripheral ischaemic vascular disease
+1826	742481000006118	G73..12	Ischaemia of legs
+6827	350533013	G73..13	Peripheral ischaemia
+39097	300500010	G730z00	Raynaud's syndrome NOS
+34638	87208017	G731.00	Thromboangiitis obliterans
+23497	87210015	G731000	Buerger's disease
+40068	300502019	G731100	Presenile gangrene
+67401	300503012	G731z00	Thromboangiitis obliterans NOS
+9204	300504018	G732.00	Peripheral gangrene
+5414	300505017	G732000	Gangrene of toe
+12735	300506016	G732100	Gangrene of foot
+39949	300507013	G732200	Gangrene of finger
+51057	300508015	G732300	Gangrene of thumb
+23672	300509011	G732400	Gangrene of hand
+105317	1847121000006114	G734.00	Peripheral arterial disease
+38907	300510018	G73y.00	Other specified peripheral vascular disease
+34152	302011	G73y000	Diabetic peripheral angiopathy
+23871	300511019	G73y100	Peripheral angiopathic disease EC NOS
+4325	300514010	G73yz00	Other specified peripheral vascular disease NOS
+3530	235911000006116	G73z.00	Peripheral vascular disease NOS
+1517	105536013	G73z000	Intermittent claudication
+6853	411512011	G73z011	Claudication
+2760	300515011	G73zz00	Peripheral vascular disease NOS
+69232	300541017	G742600	Embolism and thrombosis of the anterior tibial artery
+71860	300542012	G742700	Embolism and thrombosis of the dorsalis pedis artery
+44835	300547018	G742900	Embolism and thrombosis of a leg artery NOS
+54865	300553018	G74y000	Embolism and/or thrombosis of the common iliac artery
+32634	300554012	G74y100	Embolism and/or thrombosis of the internal iliac artery
+56919	300555013	G74y200	Embolism and/or thrombosis of the external iliac artery
+27494	300556014	G74y300	Embolism and thrombosis of the iliac artery unspecified
+9554	458507017	G76z200	Popliteal artery occlusion
+73961	300963017	Gyu7400	[X]Other specified peripheral vascular diseases
+6308	357895013	M271.12	Ischaemic leg ulcer
+11624	357894012	M271300	Arterial leg ulcer
+8801	357893018	M271400	Mixed venous and arterial leg ulcer
+4970	317343014	R054.00	[D]Gangrene
